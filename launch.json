@@ -7,8 +7,8 @@
         {
             "type": "chrome",
             "request": "launch",
-            "name": "Open home.html",
-            "file": "d:\\Dinesh\\Python resources\\Python projects\\My projects\\hci main\\home.html"
+            "name": "Open index.html",
+            "file": "d:\\Dinesh\\Python resources\\Python projects\\My projects\\hci main\\index.html"
         }
     ]
 }
