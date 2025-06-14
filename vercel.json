@@ -1,0 +1,32 @@
+{
+  "rewrites": [
+    {
+      "source": "/about",
+      "destination": "/about.html"
+    },
+    {
+      "source": "/contact",
+      "destination": "/contact.html"
+    },
+    {
+      "source": "/portfolio",
+      "destination": "/portfolio.html"
+    },
+    {
+      "source": "/skills",
+      "destination": "/skills.html"
+    },
+    {
+      "source": "/whatido",
+      "destination": "/whatido.html"
+    },
+    {
+      "source": "/",
+      "destination": "/home.html"
+    },
+    {
+        "source": "/(.*)",
+        "destination": "/$1"
+    }
+  ]
+}
